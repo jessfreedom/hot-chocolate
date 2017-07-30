@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0D9B73A8-4E88-4916-A7E3-C9C26D512402}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotChocolate/HotChocolate/MainPage.xaml.cs">
+    <Files>
+      <File FileName="HotChocolate/HotChocolate.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="HotChocolate/HotChocolate/MainPage.xaml.cs" Line="70" Column="48" />
+      <File FileName="HotChocolate/HotChocolate/MainPage.xaml" Line="17" Column="15" />
+      <File FileName="HotChocolate/HotChocolate/gingerbeer.cs" Line="13" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HotChocolate.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.308702DA-CB43-488B-9EB2-A64797FC5B30" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HotChocolate.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

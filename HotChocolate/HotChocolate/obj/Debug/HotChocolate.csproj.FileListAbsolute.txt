@@ -1,0 +1,111 @@
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csprojResolveAssemblyReference.cache
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.MainPage.xaml.g.cs
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.App.xaml.g.cs
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csproj.App.config
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.dll.config
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Newtonsoft.Json.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Extensions.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Primitives.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Newtonsoft.Json.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Extensions.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Primitives.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.dll.config
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Newtonsoft.Json.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Extensions.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Primitives.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Newtonsoft.Json.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Extensions.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Primitives.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csproj.App.config
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csprojResolveAssemblyReference.cache
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csproj.CoreCompileInputs.cache
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.MainPage.xaml.g.cs
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.App.xaml.g.cs
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.ProjectOxford.Common.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.ProjectOxford.Emotion.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.dll.config
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/HotChocolate.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.ProjectOxford.Common.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.ProjectOxford.Emotion.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Newtonsoft.Json.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Extensions.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Primitives.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Plugin.Media.Abstractions.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Extensions.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/System.Net.Http.Primitives.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Core.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/bin/Debug/Newtonsoft.Json.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csproj.App.config
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csprojResolveAssemblyReference.cache
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.csproj.CoreCompileInputs.cache
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.MainPage.xaml.g.cs
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.App.xaml.g.cs
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate/obj/Debug/HotChocolate.pdb

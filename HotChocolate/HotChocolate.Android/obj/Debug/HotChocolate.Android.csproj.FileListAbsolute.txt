@@ -1,0 +1,236 @@
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.apk
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android-Signed.apk
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.csprojResolveAssemblyReference.cache
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/bin/HotChocolate.Android.apk
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable/icon.png
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-hdpi/icon.png
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-xhdpi/icon.png
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/layout/tabbar.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/layout/toolbar.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/values/styles.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/R.cs.flag
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/uploadflags.txt
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/HotChocolate.Android.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/HotChocolate.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll.config
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Newtonsoft.Json.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.CurrentActivity.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Extensions.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Primitives.dll
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Newtonsoft.Json.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.CurrentActivity.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Extensions.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Primitives.xml
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll.config
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Plugin.Media.Abstractions.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Plugin.Media.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Plugin.Permissions.Abstractions.dll.mdb
+c:/users/jaron mar/documents/visual studio 2017/Projects/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/assets/Plugin.Permissions.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll.config
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.apk
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android-Signed.apk
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Newtonsoft.Json.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.CurrentActivity.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Extensions.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Primitives.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll.config
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Newtonsoft.Json.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.CurrentActivity.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Extensions.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Primitives.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.csprojResolveAssemblyReference.cache
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.csproj.CoreCompileInputs.cache
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.pdb
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/bin/HotChocolate.Android.apk
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable/icon.png
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/layout/tabbar.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/layout/toolbar.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/values/styles.xml
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/R.cs.flag
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/uploadflags.txt
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.ProjectOxford.Common.dll
+/Users/jessfreedom/Downloads/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.ProjectOxford.Emotion.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll.config
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android.apk
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.Android-Signed.apk
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.ProjectOxford.Common.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.ProjectOxford.Emotion.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Newtonsoft.Json.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.CurrentActivity.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Extensions.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Primitives.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/HotChocolate.dll.config
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.CurrentActivity.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Media.Abstractions.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Extensions.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/System.Net.Http.Primitives.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Core.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/bin/Debug/Newtonsoft.Json.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.csprojResolveAssemblyReference.cache
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.csproj.CoreCompileInputs.cache
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.dll
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/HotChocolate.Android.pdb
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/android/bin/HotChocolate.Android.apk
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable/icon.png
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/layout/tabbar.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/layout/toolbar.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/res/values/styles.xml
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/R.cs.flag
+/Users/jessfreedom/Desktop/HotChocolate/HotChocolate/HotChocolate.Android/obj/Debug/uploadflags.txt
